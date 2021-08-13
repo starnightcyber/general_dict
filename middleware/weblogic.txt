@@ -1,0 +1,16 @@
+weblogic/weblogic
+weblogic/weblogic123
+weblogic/12345678
+weblogic/11111111
+weblogic/weblogic123456
+weblogic/weblogic2
+system/password
+admin/security
+joe/password
+mary/password
+system/security
+wlcsystem/wlcsystem
+wlpisystem/wlpisystem
+guest/guest
+portaladmin/portaladmin
+system/system
